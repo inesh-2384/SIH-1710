@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:16:12:2025
-## Register Number:212224040105
-## Name:HARISH S
+## Register Number:212223220036
+## Name:Inesh N
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
